@@ -447,6 +447,8 @@ body {
   .SC_Button:hover {
     background: var(--dirty-white);
     color: var(--dirty-black);
+    user-select: none;
+    cursor: pointer;
   }
 
   .BigPoster {

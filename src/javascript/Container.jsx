@@ -294,7 +294,7 @@ export default class Container extends Component {
         A1: 'voice_0.mp3',
         A2: 'voice_5.mp3'
       },
-      baseUrl: '/samples/'
+      baseUrl: '/alien_static_synth/samples/'
       // onload: () => {
       //   sampler.triggerAttackRelease(['A1', 'A2', 'A1', 'A2'], 0.5)
       // }
